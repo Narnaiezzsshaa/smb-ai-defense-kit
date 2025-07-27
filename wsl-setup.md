@@ -25,7 +25,7 @@ wsl --install
 
 ---
 
-### Step 2: Launch Ubuntu
+Step 2: Launch Ubuntu
 Once installed, restart your system. Search for “Ubuntu” in the Start menu.
 
 Launch it once to auto-configure (takes ~1–2 minutes).
@@ -34,7 +34,7 @@ Choose username and password when prompted.
 
 ---
 
-### Step 3: Install Markdown Preview Tools
+Step 3: Install Markdown Preview Tools
 In the Ubuntu terminal, run:
 
 ```Bash
@@ -48,7 +48,7 @@ bat preview-quickstart.md
 
 ---
 
-### 📁 Preview Key Assets
+📁 Preview Key Assets
 
 These files provide modular context across the kit:
 
@@ -62,7 +62,7 @@ Any Phase README — contextual guidance by phase
 
 ---
 
-### 🧭 Bonus: Validate Badge Logic (Optional)
+🧭 Bonus: Validate Badge Logic (Optional)
 You can test badge validators using:
 
 ```Bash
