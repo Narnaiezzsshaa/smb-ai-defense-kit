@@ -2,6 +2,8 @@
 
 This repo is previewable with zero orchestration, but many stewards prefer visual tools and markdown-friendly terminals. If you're on Windows, WSL is the simplest way to honor that preference.
 
+Note: Requires Windows 10 (2004+) or Windows 11
+
 ---
 
 ## 💡 Why WSL?
