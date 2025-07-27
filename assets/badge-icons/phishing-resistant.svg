@@ -1,1 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="40" fill="#009688"/>
+  <path d="M30 50 L50 30 L70 50" stroke="#fff" stroke-width="5" fill="none"/>
+  <text x="50%" y="85%" fill="#fff" font-size="10" text-anchor="middle">Phishing-Resistant</text>
+</svg>
 
