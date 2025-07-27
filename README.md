@@ -1,15 +1,40 @@
-# SMB AI Defense Kit
+# 🛡️ SMB AI Defense Kit
 
-A modular, audit-friendly toolkit for dignified AI security in small and midsize organizations. Designed for clinics, family offices, and resilient SMBs with modest tech footprints.
+Modular assets for emotionally intelligent, audit-ready AI hygiene in clinics, family offices, and SMB zones.
 
-## Modules
-- 📚 Docs: Explainers and templates
-- 🖼️ Assets: Visuals and onboarding cards
-- ⚙️ Tools: Sample scripts and configs
-- 🧪 Examples: Sector-specific rollouts
+---
 
-## License
-MIT (with stewardship etiquette): Remix freely. Credit softly. Adapt with care.
+## 🧠 Badge System Overview
 
-## Contact
-Created by Soft Armor Labs/Narnaiezzsshaa Truong. Stewardship inquiries welcome.
+| Badge              | Meaning Description                        | Quickstart Logic                          |
+|--------------------|--------------------------------------------|-------------------------------------------|
+| AI Endpoint        | [Meaning](./assets/badge-cards/badge-description-cards.md#ai-endpoint) | [Setup](./assets/quickstart-cards/ai-endpoint.md) |
+| Phishing-Resistant| [Meaning](./assets/badge-cards/badge-description-cards.md#phishing-resistant) | [Setup](./assets/quickstart-cards/phishing-resistant.md) |
+| SMB SOC-Lite       | [Meaning](./assets/badge-cards/badge-description-cards.md#smb-soc-lite) | [Setup](./assets/quickstart-cards/smb-soc-lite.md) |
+
+---
+
+## 🧩 Deployment Tools
+
+- `tools/agent-verify.sh` — Validates AI endpoint protection.
+- `docs/incident-response.md` — Ready-to-remix crisis logic.
+
+---
+
+## 🏥 Sector Kits *(Coming Soon)*
+
+| Sector           | Kit Folder                     |
+|------------------|--------------------------------|
+| Clinic           | `/deployment/clinic-kit/`      |
+| Family Office    | `/deployment/family-office-kit/` |
+| MSP/SMB          | `/deployment/msp-kit/`         |
+
+---
+
+## 📝 Remix & Stewardship
+
+Coming soon: [`docs/stewardship-notes.md`](./docs/stewardship-notes.md) — etiquette, emotional zones, and signage logic.
+
+---
+
+This kit is designed for quiet excellence, legacy-grade deployment, and modular governance. All assets are remixable under the stewardship-first philosophy.
