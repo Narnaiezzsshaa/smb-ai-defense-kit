@@ -372,5 +372,15 @@ custom_patterns:
 
 ---
 
-For clinic onboarding, start with [`deployment/clinic-adaptation.md`](./deployment/clinic-adaptation.md).
-This phase focuses on data classification, privacy impact, and retention scaffolds—no external orchestration required.
+## 🧭 Deployment Optional
+`deploy.sh` is available for quick-start orchestration. Phase 1 can also be used standalone via [`deployment/clinic-adaptation.md`](./deployment/clinic-adaptation.md).
+
+## 🚫 Support Disclaimer
+This repository is offered **as-is**, with no technical support or debugging assistance. All assets are designed for autonomous stewardship.
+
+## 📚 Documentation
+For reference material, see [`docs`](./docs/). Issues and discussions are disabled to preserve the kit's modular integrity.
+
+## 🧩 Recognition & Badges
+Recognition systems (e.g., badges, validations) are planned for future phases (time permitting). Quiet completion signals excellence.
+
