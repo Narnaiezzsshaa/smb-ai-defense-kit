@@ -21,6 +21,13 @@ Modular assets for emotionally intelligent, audit-ready AI hygiene in clinics, f
 
 ---
 
+## 🧪 Deployment Scenarios
+
+- [`Badge Deployment Examples`](./examples/badge-deployment.md) — Shows how signage rolls out across zones and consent flows.
+- [`Phase Guide`](./examples/smb-phase-guide.md) — Lifecycle checkpoints for hygiene upgrades.
+
+---
+
 ## 🏥 Sector Kits *(Coming Soon)*
 
 | Sector           | Kit Folder                     |
